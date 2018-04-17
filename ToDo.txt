@@ -5,3 +5,4 @@ Conversion functions needed:
 - Hours to Minutes
 - Degrees to Radians
 - Dollars to Euros
+- Lbs to Kgs
